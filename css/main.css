@@ -97,13 +97,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+
+
+
 .title h1{
     background-color: #000000;
 }
-
-
-
-
 
 
 
@@ -289,3 +288,15 @@ textarea {
         page-break-after: avoid;
     }
 }
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+.title h1{
+    background-color: #000000;
+}
+=======
+
+
+
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
