@@ -12,7 +12,7 @@
 
 html {
     color: #222;
-    font-size: 1em;
+    font-size: 10px;
     line-height: 1.4;
 }
 
@@ -97,9 +97,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-.title h1{
-    background-color: #000000;
-}
+
 
 
 
@@ -288,4 +286,7 @@ textarea {
     h3 {
         page-break-after: avoid;
     }
+}
+.title h1{
+    background-color: #000000;
 }
