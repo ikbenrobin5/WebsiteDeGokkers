@@ -24,7 +24,7 @@
 
 
         <div class="title">
-            <h1>De Gokkers</h1>
+            <h1>de Gokkers</h1>
         </div>
 
 
