@@ -49,15 +49,19 @@
 
         <div class="informatie">
             <div class="infotekst">
-                <p>This is the settings menu,
-                    here you can change the number of players,
-                    the amount of starting money an the player names.
-                    The maximum amount of players is 3 and the minimum is 1.
-                    You can press the "Start Game" button to advance to the next form.</p>
+                <p>This is what the game looks like,
+                    On the left side you can see the racing ostriches.
+                    Under the ostriches is the "Start!" button, press this once you're ready to race.
+                    Then under the start button is the player's name.
+                    Next to that is the amount of money the player has.
+                    Next to that is the menu where you can choose an ostrich to place your bet on.
+                    You can bet a minimum of 5 dollars and a maximum of 15 dollars.
+                    if you're ready to place your bet the check the button next to the label that shows how much you've bet.
+                    And press the "Bet!" button to place your bet.</p>
             </div>
 
             <div class="infoscreens">
-                <img src="./img/program.png" alt="settings">
+                <img src="./img/program.png" alt="Program">
             </div>
 
         </div>
