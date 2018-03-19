@@ -26,7 +26,7 @@
         <div class="header">
             <h1>De Gokkers</h1>
             <nav>
-                <a href="#information">Informatie</a>
+                <a href="#information">Information</a>
                 <a href="#video">Video</a>
                 <a href="#login">Login</a>
             </nav>
