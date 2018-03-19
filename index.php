@@ -32,6 +32,10 @@
             </nwv>
         </div>
 
+        <div class="informationtitle">
+            <h1>Information</h1>
+        </div>
+
         <div class="informatie">
             <div class="infotekst">
                 <p>This is the settings menu,
@@ -66,6 +70,10 @@
             <div class="infoscreens">
                 <img src="./img/program.png" alt="Program">
             </div>
+        </div>
+
+        <div class="videotilte">
+            <h1>Video of the program</h1>
         </div>
 
         <div class="video">

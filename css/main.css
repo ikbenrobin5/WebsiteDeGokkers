@@ -100,7 +100,17 @@ p{
   font-size: 15px;
 }
 
+h1{
+    font-size: 30px;
+}
 
+.informationtitle{
+    display: flex;
+    background-color: #8FA3C4;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
 .title{
     background-color: #6D8AC1;
@@ -134,11 +144,17 @@ p{
     margin-left: 72px;
 }
 
-.video{
+.videotilte{
     display: flex;
     background-color: #8FA3C4;
     justify-content: center;
     padding-top: 100px;
+}
+
+.video{
+    display: flex;
+    background-color: #8FA3C4;
+    justify-content: center;
 }
 
 
