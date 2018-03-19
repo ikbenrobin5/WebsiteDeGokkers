@@ -101,7 +101,20 @@ textarea {
 
 
 .title{
-    background-color: #000000;
+    background-color: #8FA3C4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+}
+
+.title a{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.title h1{
+    font-size: 20px;
 }
 
 

@@ -25,6 +25,13 @@
 
         <div class="title">
             <h1>De Gokkers</h1>
+            <nwv>
+                <a href="">Informatie</a>
+                <a href="">Video</a>
+                <a href="">Login</a>
+                <a href=""></a>
+                <a href=""></a>
+            </nwv>
         </div>
 
 
