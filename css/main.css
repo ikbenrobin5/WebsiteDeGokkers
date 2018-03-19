@@ -121,6 +121,7 @@ textarea {
     background-color: #8FA3C4;
     display: flex;
     justify-content: space-around;
+    padding-top: 50px;
 }
 
 .infotekst{
