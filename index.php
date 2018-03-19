@@ -35,6 +35,21 @@
         <div class="informatie">
             <div class="infotekst">
                 <p>This is the settings menu,
+                    you can change the number of players,
+                    the amount of starting money an the player names here.
+                    You can play with up to three people!
+                    You can press the "Start Game" button to advance to the next form.</p>
+            </div>
+
+            <div class="infoscreens" id="settings">
+                <img src="./img/settings.png" alt="settings">
+            </div>
+
+        </div>
+
+        <div class="informatie">
+            <div class="infotekst">
+                <p>This is the settings menu,
                     here you can change the number of players,
                     the amount of starting money an the player names.
                     The maximum amount of players is 3 and the minimum is 1.
@@ -42,7 +57,7 @@
             </div>
 
             <div class="infoscreens">
-                <img src="./img/settings.png" alt="settings">
+                <img src="./img/program.png" alt="settings">
             </div>
 
         </div>
