@@ -69,6 +69,12 @@
 
         </div>
 
+        <video
+            width="400" controls
+            src="./video/Settings 19-3-2018 15_19_30.mp4">
+
+        </video>
+
 
 
 
