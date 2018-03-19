@@ -25,11 +25,11 @@
 
         <div class="header">
             <h1>De Gokkers</h1>
-            <nwv>
+            <nav>
                 <a href="#information">Informatie</a>
                 <a href="#video">Video</a>
                 <a href="">Login</a>
-            </nwv>
+            </nav>
         </div>
 
         <div class="informationtitle">
@@ -87,7 +87,6 @@
                 src="./video/Settings 19-3-2018 15_19_30.mp4">
             </video>
         </div>
-
 
 
 

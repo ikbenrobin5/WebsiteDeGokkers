@@ -123,10 +123,17 @@ h1{
     font-size: 20px;
     margin-left: 10px;
     margin-right: 10px;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: #8FA3C4;
+    text-decoration: none;
+    color: mediumblue;
 }
 
 .header h1{
     font-size: 20px;
+    color: mediumblue;
 }
 
 .informatie{
@@ -142,11 +149,8 @@ h1{
 
 .infotekst p{
     border-style: solid;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
     border-radius: 10px;
+    padding: 10px;
 }
 
 #settings{
