@@ -33,7 +33,7 @@
         </div>
 
         <div class="informationtitle">
-            <h1>Information</h1>
+            <h2>Information</h2>
             <a name="information"></a>
         </div>
 
@@ -76,7 +76,7 @@
         </div>
 
         <div class="videotilte">
-            <h1>Video of the program</h1>
+            <h2>Video of the program</h2>
             <a name="video"></a>
         </div>
 
