@@ -29,9 +29,18 @@
                 <a href="">Informatie</a>
                 <a href="">Video</a>
                 <a href="">Login</a>
-                <a href=""></a>
-                <a href=""></a>
             </nwv>
+        </div>
+
+        <div class="informatie">
+            <div class="infotekst">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquid consectetur culpa distinctio id ipsum iste, minus nesciunt nisi numquam odit provident quae quas quod repellendus rerum soluta tenetur, ut!</p>
+            </div>
+
+            <div class="infoscreens">
+                <img src="./img/settings.png" alt="settings">
+            </div>
+
         </div>
 
 
