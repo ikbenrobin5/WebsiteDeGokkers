@@ -134,6 +134,13 @@ p{
     margin-left: 72px;
 }
 
+.video{
+    display: flex;
+    background-color: #8FA3C4;
+    justify-content: center;
+    padding-top: 100px;
+}
+
 
 
 
