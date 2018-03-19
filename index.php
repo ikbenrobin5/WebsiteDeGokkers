@@ -37,6 +37,9 @@
                 <p>This is the settings menu,
                     you can change the number of players,
                     the amount of starting money an the player names here.
+                    You can choose your own custom names!
+                    There are diffrent amounts of starting money to choose from to make it harder to play the game
+                    and earn money. The amounts to choose from are: 0, 25, 50, 100, 250, 500, 1000, 5000, 100000, 100000.
                     You can play with up to three people!
                     You can press the "Start Game" button to advance to the next form.</p>
             </div>
