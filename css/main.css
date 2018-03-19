@@ -175,6 +175,12 @@ h2{
     padding-bottom: 100px;
 }
 
+.logintitle{
+    display: flex;
+    background-color: #8FA3C4;
+    justify-content: center;
+}
+
 
 
 

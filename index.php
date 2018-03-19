@@ -28,7 +28,7 @@
             <nav>
                 <a href="#information">Informatie</a>
                 <a href="#video">Video</a>
-                <a href="">Login</a>
+                <a href="#login">Login</a>
             </nav>
         </div>
 
@@ -86,6 +86,11 @@
                 width="700" controls
                 src="./video/Settings 19-3-2018 15_19_30.mp4">
             </video>
+        </div>
+
+        <div class="logintitle">
+            <h2>Login</h2>
+            <a name="login"></a>
         </div>
 
 
