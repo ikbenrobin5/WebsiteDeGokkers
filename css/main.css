@@ -120,6 +120,11 @@ textarea {
 .informatie{
     background-color: #8FA3C4;
     display: flex;
+    justify-content: space-around;
+}
+
+.infotekst{
+    max-width: 250px    ;
 }
 
 
