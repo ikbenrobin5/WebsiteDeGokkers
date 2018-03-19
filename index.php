@@ -23,17 +23,18 @@
 
 
 
-        <div class="title">
+        <div class="header">
             <h1>De Gokkers</h1>
             <nwv>
-                <a href="">Informatie</a>
-                <a href="">Video</a>
+                <a href="#information">Informatie</a>
+                <a href="#video">Video</a>
                 <a href="">Login</a>
             </nwv>
         </div>
 
         <div class="informationtitle">
             <h1>Information</h1>
+            <a name="information"></a>
         </div>
 
         <div class="informatie">
@@ -67,6 +68,8 @@
                     And press the "Bet!" button to place your bet.</p>
             </div>
 
+
+
             <div class="infoscreens">
                 <img src="./img/program.png" alt="Program">
             </div>
@@ -74,9 +77,11 @@
 
         <div class="videotilte">
             <h1>Video of the program</h1>
+            <a name="video"></a>
         </div>
 
         <div class="video">
+
             <video
                 width="700" controls
                 src="./video/Settings 19-3-2018 15_19_30.mp4">

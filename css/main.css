@@ -112,20 +112,20 @@ h1{
     padding-bottom: 30px;
 }
 
-.title{
+.header{
     background-color: #6D8AC1;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
-.title a{
+.header a{
     font-size: 20px;
     margin-left: 10px;
     margin-right: 10px;
 }
 
-.title h1{
+.header h1{
     font-size: 20px;
 }
 
