@@ -140,6 +140,15 @@ h1{
     max-width: 350px;
 }
 
+.infotekst p{
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
 #settings{
     margin-left: 72px;
 }
