@@ -34,7 +34,11 @@
 
         <div class="informatie">
             <div class="infotekst">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquid consectetur culpa distinctio id ipsum iste, minus nesciunt nisi numquam odit provident quae quas quod repellendus rerum soluta tenetur, ut!</p>
+                <p>This is the settings menu,
+                    here you can change the number of players,
+                    the amount of starting money an the player names.
+                    The maximum amount of players is 3 and the minimum is 1.
+                    You can press the "Start Game" button to advance to the next form.</p>
             </div>
 
             <div class="infoscreens">
