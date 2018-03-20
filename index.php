@@ -96,7 +96,10 @@
         <form action="RegisterNames.php" method="POST"></form>
             <div class="form-group">
                 <input type="email" name="email" id="email" placeholder="Email">
+                <input type="submit" value="Login">
             </div>
+
+
 
 
 
