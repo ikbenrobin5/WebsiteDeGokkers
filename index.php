@@ -93,7 +93,7 @@
             <a name="login"></a>
         </div>
 
-        <form action="RegisterNames.php" method="POST"></form>
+        <form action="Login.php" method="POST"></form>
             <div class="form-group">
                 <input type="email" name="email" id="email" placeholder="Email">
                 <input type="submit" value="Login">
