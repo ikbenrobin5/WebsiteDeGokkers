@@ -181,6 +181,18 @@ h2{
     justify-content: center;
 }
 
+.form-group{
+    display: flex;
+    background-color: #8FA3C4;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 300px;
+}
+
+#email{
+    width: 200px;
+}
+
 
 
 
