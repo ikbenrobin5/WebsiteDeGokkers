@@ -93,7 +93,12 @@
             <a name="login"></a>
         </div>
 
-        <form action=""></form>
+        <form action="RegisterNames.php" method="POST"></form>
+            <div class="form-group">
+                <input type="email" name="email" id="email" placeholder="Email">
+            </div>
+
+
 
 
 
