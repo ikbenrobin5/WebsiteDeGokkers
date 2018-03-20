@@ -86,7 +86,7 @@
         </div>
 
         <div class="download">
-            <a href="">--> Download here <---</a>
+            <a href="">Download here</a>
         </div>
 
         <div class="logintitle">
