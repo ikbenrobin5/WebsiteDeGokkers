@@ -85,6 +85,10 @@
             </video>
         </div>
 
+        <div class="download">
+            <a href="">--> Download here <---</a>
+        </div>
+
         <div class="logintitle">
             <h2>Login</h2>
             <a name="login"></a>
