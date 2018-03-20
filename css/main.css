@@ -169,7 +169,7 @@ h2{
     display: flex;
     background-color: #8FA3C4;
     justify-content: center;
-    padding-top: 100px;
+    padding-top: 10px;
 }
 
 .video{
@@ -177,6 +177,7 @@ h2{
     background-color: #8FA3C4;
     justify-content: center;
     padding-bottom: 100px;
+    padding-top: 10px;
 }
 
 .logintitle{
