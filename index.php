@@ -94,7 +94,7 @@
         </div>
 
         <form action="Login.php" method="POST"></form>
-            <div class="form-group">
+            <div class="login">
                 <input type="email" name="email" id="email" placeholder="Email">
                 <input type="submit" value="Login">
             </div>
