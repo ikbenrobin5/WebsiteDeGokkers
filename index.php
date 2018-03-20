@@ -80,7 +80,7 @@
         <div class="video">
 
             <video
-                width="700" controls
+                width="700" height="400" controls
                 src="./video/DeGokkersVideo.mp4">
             </video>
         </div>
