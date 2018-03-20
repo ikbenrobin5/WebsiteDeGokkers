@@ -84,7 +84,7 @@
 
             <video
                 width="700" controls
-                src="./video/Settings 19-3-2018 15_19_30.mp4">
+                src="./video/DeGokkersVideo.mp4">
             </video>
         </div>
 
