@@ -41,7 +41,7 @@
                     the amount of starting money and the player names here.
                     You can choose your own custom names!
                     There are diffrent amounts of starting money to choose from to make it harder to play the game
-                    and earn money. The amounts to choose from are: 0, 25, 50, 100, 250, 500, 1000, 5000, 100000, 100000.
+                    and earn money. The amounts to choose from are: 0, 25, 50, 100, 250, 500, 1000, 5000, 100000 and 1000000 dollars.
                     You can play with up to three people!
                     You can press the "Start Game" button to advance to the next form.</p>
             </div>
